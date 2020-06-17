@@ -1,0 +1,15 @@
+{
+  "name": "picture-generator",
+  "version": "1.0.0",
+  "description": "\"Download pictures from lipsum-picsum\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dustin Morris",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "fs": "0.0.1-security"
+  }
+}
